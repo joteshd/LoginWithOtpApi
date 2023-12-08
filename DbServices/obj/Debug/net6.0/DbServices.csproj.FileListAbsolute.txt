@@ -1,0 +1,12 @@
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\bin\Debug\net6.0\DbServices.deps.json
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\bin\Debug\net6.0\DbServices.dll
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\bin\Debug\net6.0\DbServices.pdb
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\DbServices.csproj.AssemblyReference.cache
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\DbServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\DbServices.AssemblyInfoInputs.cache
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\DbServices.AssemblyInfo.cs
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\DbServices.csproj.CoreCompileInputs.cache
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\DbServices.dll
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\refint\DbServices.dll
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\DbServices.pdb
+D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\obj\Debug\net6.0\ref\DbServices.dll

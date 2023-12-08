@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DbServices</id>
+    <version>1.0.0</version>
+    <authors>DbServices</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Dapper" version="2.1.15" exclude="Build,Analyzers" />
+        <dependency id="Dapper.Contrib" version="2.0.78" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\bin\Debug\net6.0\DbServices.pdb" target="lib\net6.0\DbServices.pdb" />
+    <file src="D:\Assignment\loginApp\loginWithOtpApi\logintWithOtp\DbServices\bin\Debug\net6.0\DbServices.dll" target="lib\net6.0\DbServices.dll" />
+  </files>
+</package>

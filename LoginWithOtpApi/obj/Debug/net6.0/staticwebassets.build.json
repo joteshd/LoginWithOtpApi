@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fTnq08V5jkHOv12+GT5HFJUzANpuS40I/FTHlj1owNs=",
+  "Source": "LoginWithOtpApi",
+  "BasePath": "_content/LoginWithOtpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

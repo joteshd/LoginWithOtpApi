@@ -1,0 +1,19 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Dapper" Version="2.1.15" />
+    <PackageVersion Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageVersion Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.24" />
+    <PackageVersion Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    <PackageVersion Include="NETCore.MailKit" Version="2.1.0" />
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageVersion Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+    <PackageVersion Include="DbServices" Version="1.0.0" />
+    <PackageVersion Include="Services" Version="1.0.0" />
+  </ItemGroup>
+</Project>
